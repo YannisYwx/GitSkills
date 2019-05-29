@@ -1,3 +1,5 @@
 # GitSkills
 Edit by dev
-add some information by master
+Add some information by master
+Add some information by dev 
+
